@@ -1,2 +1,11 @@
-# thinking-type-diagnostic
-A cognitive thinking style diagnostic based on evidence-driven design and validation.
+# Thinking Type Diagnostic
+
+A cognitive thinking style diagnostic project.
+
+## Purpose
+
+Developing a framework to visualize individual differences in thinking processes.
+
+## Status
+
+Research and design phase.
