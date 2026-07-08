@@ -89,3 +89,4 @@ Primed Decision, Need for Cognitive Closure, Situated Action 等）を
 ```bash
 npm install
 npm run dev
+
